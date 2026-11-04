@@ -1,6 +1,6 @@
 # Tri and Succeed Sports Website
 
-**CIS 150 | HTML & CSS**
+**CIS 150 - Project 2**
 
 ## Project Overview
 Created a Coaches webpage for Tri and Succeed Sports, a fictional triathlon training organization, as part of a web development assignment. The page introduces the coaching team and highlights their backgrounds, qualifications, and training experience.
